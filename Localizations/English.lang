@@ -1,0 +1,11 @@
+{
+  openScript = "Open script",
+  open1 = "Open" ,
+  cancel = "Cancel",
+  appName = "App name",
+  scriptName = "Script name",
+  canFlashTheEEPROM = "Can flash the EEPROM",
+  canDeleteSystemFiles = "Can delete system files:",
+  virusNotFound = "Viruses not found!",
+  virusFound = "Suspicious code found:"
+}
